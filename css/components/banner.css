@@ -1,0 +1,10 @@
+.banner {
+  height: 500px;
+  background: url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
